@@ -1,4 +1,9 @@
 <style>
+
+ h2 {
+            color: rgb(97, 215, 255);
+            font-size: 1.5em;
+ }
   p
             {color: rgb(255, 122, 180);
                 
@@ -13,6 +18,7 @@
  #intro {
             font-family:monospace;
      background-color: lightblue;
+    font-style: italic;
             
           
         }
@@ -20,6 +26,7 @@
 #extracurc {
   font-family:fantasy;
     background-color: lightblue;
+   font-weight: bold;
 
 }
 
