@@ -12,12 +12,16 @@
 
  #intro {
             font-family:monospace;
+     background-color: lightblue;
             
           
         }
 
 #extracurc {
   font-family:fantasy;
+    background-color: lightblue;
+
+}
 
   
 </style>
