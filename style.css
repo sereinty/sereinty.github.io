@@ -1,34 +1,96 @@
 <style>
-
- h2 {
-            color: rgb(97, 215, 255);
-            font-size: 1.5em;
- }
-  p
-            {color: rgb(255, 122, 180);
-                
-            } 
-
- body
-            { 
-                background-color: rgb(234, 196, 255);
-                
-            }
-
- #intro {
-            font-family:monospace;
-     background-color: lightblue;
-    font-style: italic;
-            
-          
-        }
-
-#extracurc {
-  font-family:fantasy;
-    background-color: lightblue;
-   font-weight: bold;
-
+        	.scroll {
+            	background: rgb(170, 255, 237);
+            	width: 80%;
+            	height: 200px;
+            	overflow: auto;
+              	font-family: Sans-serif;
+               	border: 10px solid rgb(255, 171, 87);
+}
+      	 
+           	 
+        	}
+       	 
+           	p
+        	{color: rgb(17, 15, 28);
+         	font-family: monospace;
+            	font-style: italic;
+          	font-weight:bold;
+          	font-size:1.5em;
+        	 
+      	 
+           	 
+        	}
+       	 
+        	body
+        	{
+            	background-color: rgb(217, 195, 255);
+           	 
+        	}
+        	.crk {
+            	width: 70%;
+        	}
+        	#wedding {
+            	background-color: pink;
+        	}
+        	#feature {
+            	background-color: violet;
+        	}
+          	#intro {
+            	background-color: lightyellow;
+        	}
+               	 
+       	 
+          	#bleh {
+            	background-color: Moccasin;
+        	}
+        	th, td {
+  padding: 15px;
+}
+tr:nth-child(even) {
+  background-color: rgba(150, 212, 212, 0.4);
 }
 
-  
-</style>
+th:nth-child(even),td:nth-child(even) {
+  background-color: #DDA0DD;
+}
+
+ 
+          	#char {
+            	background-color: LightGreen;
+        	}
+         	.big{
+         	font-size: 1.5em;
+     	}
+       	.bigger{
+         	font-size: 5em;
+     	}
+  	.favs {
+	background-color: Orchid;
+	font-family: fantasy;
+	font-style: italic;
+	font-weight: bold;
+}
+
+.photo-gallery {
+	padding: 30px;
+}
+
+.photo {
+	width: 200px;
+	margin: 20px;
+	border: 10px solid rgb(255, 171, 87);
+}
+
+.fav-cookies {
+	background: rgb(181, 255, 244);
+	border: 10px ridge pink;
+	padding: 30px;
+}
+
+.evil-licorice {
+	width: 200px;
+	margin: 20px;
+	border: 10px solid rgb(83, 67, 140);
+}
+    	</style>
